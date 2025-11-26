@@ -44,31 +44,31 @@ Used a custom **binary image dataset** loaded with `ImageDataGenerator`.
 | AlexNet | 85.71%  | Likely lower due to simpler architecture |
 | VGG | 76.47% | Better representation learning |
 
-## 1. AlexNet
+1. AlexNet
 
-## ✅ Accuracy: 85.71%
+✅ Accuracy: 85.71%
 
-##Strengths: Strong feature extraction, works well on real-world images, reliable performance.
+Strengths: Strong feature extraction, works well on real-world images, reliable performance.
 
-##Limitations: Heavy model, requires more resources compared to simple CNNs.
+Limitations: Heavy model, requires more resources compared to simple CNNs.
 
-##2. CNN (Custom)
+2. CNN (Custom)
 
-##✅ Accuracy: 78.43%
+✅ Accuracy: 78.43%
 
-##Strengths: Lightweight, faster to train, good for small and medium-scale image tasks.
+Strengths: Lightweight, faster to train, good for small and medium-scale image tasks.
 
-##Limitations: Struggles with complex image features, not as powerful as deeper models.
+Limitations: Struggles with complex image features, not as powerful as deeper models.
 
-##3. VGG
+3. VGG
 
-##✅ Accuracy: 76.47%
+✅ Accuracy: 76.47%
 
-##Strengths: Deep network, captures fine details, good theoretical performance.
+Strengths: Deep network, captures fine details, good theoretical performance.
 
-##Limitations: Very slow, high memory requirement, less practical without strong hardware.
+Limitations: Very slow, high memory requirement, less practical without strong hardware.
 
-##Conclusion: AlexNet performs best here for real-world recognition, CNN is a good balance for smaller tasks, while VGG, though detailed, is less efficient.
+Conclusion: AlexNet performs best here for real-world recognition, CNN is a good balance for smaller tasks, while VGG, though detailed, is less efficient.
 
 ---
 
