@@ -80,3 +80,10 @@ matplotlib
 numpy
 opencv-python
 
+---
+
+## 👨‍💻 Author
+
+Jay Bankar
+(Deep Learning / AI Enthusiast)
+
