@@ -84,6 +84,6 @@ opencv-python
 
 ## 👨‍💻 Author
 
-Jay Bankar
-(Deep Learning / AI Enthusiast)
+Jay Bankar <br>
+Deep Learning / AI Enthusiast
 
